@@ -1,6 +1,6 @@
 # [Projet Entraînement SQL (FR)](https://github.com/Ymeh-Git/Entrainement_SQL.git)
 
-Entraînement SQL en Python avec explications, exercice à la main, exercices en Python et un Quizz
+Entraînement SQL en Python avec explications, exercice à la main, exercices en Python et un Quizz, le tout orienté Dev IA.
 
 ## Prérequis
 
