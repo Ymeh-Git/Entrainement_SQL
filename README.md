@@ -7,7 +7,9 @@ Entraînement SQL en Python avec explications, exercice à la main, exercices en
 * Visual Studio Code (VSC) ou IDE similaire
 * Git
 * Extension VSC - Jupyter
-* Python 3.14.6 (version au moment du projet)
+* Un .venv avec :
+    * Python 3.14.6 (version au moment du projet)
+    * pandas d'installer
 * Commentaire, dossiers & fichiers en français
 * Variable en anglais
 
@@ -53,7 +55,9 @@ SQL training in Python featuring explanations, a hands-on exercise, Python exerc
 * Visual Studio Code (VSC) or similar IDE
 * Git
 * VSC extension: Jupyter
-* Python 3.14.6 (version at the time of the project)
+* A .venv with :
+    * Python 3.14.6 (version at the time of the project)
+    * pandas
 * Comments, folders, and files in French
 * Variables in English
 
